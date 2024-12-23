@@ -16,5 +16,6 @@ Desenvolvedor com experiência em Python e especialista em Cibersegurança. Foco
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](juliano-candido-matias)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](
+in/juliano-candido-matias-580bb152)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:julianoskate@yahoo.com.br)

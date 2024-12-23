@@ -1,42 +1,20 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Juliano Candido Matias - GitHub Profile</title>
-</head>
-<body>
-    <div style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
-        <div style="text-align: center; margin-bottom: 30px;">
-            <h1 style="color: #2f80ed; font-size: 2.5em;">Juliano Candido Matias</h1>
-            <p style="font-size: 1.2em; color: #333;">Desenvolvedor & Especialista em Segurança</p>
-        </div>
+# Juliano Candido Matias
 
-        <div style="background: #f6f8fa; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-            <h2 style="color: #2f80ed;">🚀 Tecnologias</h2>
-            <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
-                <div style="text-align: center; padding: 15px;">
-                    <img src="/api/placeholder/50/50" alt="Python" style="width: 50px; height: 50px;">
-                    <p>Python</p>
-                </div>
-                <div style="text-align: center; padding: 15px;">
-                    <img src="/api/placeholder/50/50" alt="Cybersecurity" style="width: 50px; height: 50px;">
-                    <p>Cibersecurity</p>
-                </div>
-                <div style="text-align: center; padding: 15px;">
-                    <img src="/api/placeholder/50/50" alt="Automation" style="width: 50px; height: 50px;">
-                    <p>Automação</p>
-                </div>
-            </div>
-        </div>
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](#)
+[![Security](https://img.shields.io/badge/-Cybersecurity-FF0000?style=flat&logo=shield&logoColor=white)](#)
+[![Automation](https://img.shields.io/badge/-Automation-4CAF50?style=flat&logo=ansible&logoColor=white)](#)
 
-        <div style="background: #f6f8fa; padding: 20px; border-radius: 10px;">
-            <h2 style="color: #2f80ed;">💡 Sobre Mim</h2>
-            <p style="line-height: 1.6;">
-                Desenvolvedor com foco em Python e especialista em Cibersegurança, 
-                com experiência em desenvolvimento de soluções de automação e segurança.
-                Comprometido com a criação de código seguro e eficiente.
-            </p>
-        </div>
-    </div>
-</body>
-</html>
+### 👨‍💻 Sobre Mim
+
+Desenvolvedor com experiência em Python e especialista em Cibersegurança. Foco em desenvolvimento de soluções de automação e segurança.
+
+### 🛠️ Tecnologias
+
+- **Linguagens**: Python
+- **Especialidades**: Cibersegurança, Automação
+- **Ferramentas**: Desenvolvimento de scripts de automação, Análise de segurança
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](juliano-candido-matias)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:julianoskate@yahoo.com.br)
